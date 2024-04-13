@@ -21,7 +21,7 @@ public class FavouriteController {
 
    //---nested object--NESTED JSON
 //}
-
+//email feture added
 
     @Autowired
     private FavouriteRepository  favouriteRepository;
